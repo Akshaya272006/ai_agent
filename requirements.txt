@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+langchain
+langchain-community
+langchain-core
+sentence-transformers
+chromadb
+ollama
+torch
+openpyxl
